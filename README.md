@@ -40,8 +40,8 @@
 </div>
 <hr>
 <div style="display: flex; flex-wrap: wrap; align-items: start">
-  <img src="https://github-readme-stats.vercel.app/api?username=colasanto&show_icons=true&theme=tokyonight" style="margin: 5px" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colasanto&theme=tokyonight" style="margin: 5px" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=colasanto&show_icons=true&theme=tokyonight" style="margin: 5px" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colasanto&theme=tokyonight" style="margin: 5px" height="170"/>
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=colasanto.visitor-badge)
